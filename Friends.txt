@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>liyanawebsite</title>
+<link rel="stylesheet"href="style.css">
+</head>
+<body>
+<nav class="nav-area">
+<ul>
+<li><a href="Index.html">Home</a></li>
+<li><a href="Biodata.html">Biodata</a></li>
+<li><a href="Experience.html">Experience</a></li>
+<li><a href="Education.html">Education</a></li>
+<li><a href="Family.html">Family</a></li>
+<li><a href="Friends.html">Friends</a></li>
+<li><a href="Gallery.html">Gallery</a></li>
+<li class="active"><a href="Contact.html">Contact</a></li>
+</ul> 
+</nav>
+<div class="navbar">
+<center>
+<h1><font face="comic sans"<font color="darkblue">My Friends</h1></center>
+<p><font color="black"></p>
+<center>
+<br>
+<center><table border="1" width= "50%" align="center">
+<tr>
+<td COLSPAN="10"align="center"><embed src="Videos/friends1.mp4"autoplay="false"width="600px"height="600px"></embed></td>
+<tr align="center" table background= "Images/tablebackground1.png">
+<th ROWSPAN="10">My Friends</th>
+<th>Name</th>
+<th>Hometown</th>
+<th>Studied At</th>
+<th>Course</th>
+</tr>
+<tr align="center">
+<td>Putri Nuraina Balqis</td>
+<td>Parit Buntar</td>
+<td>UiTM Shah Alam</td>
+<td>Bachelor of Park Management & Amenity</td>
+</tr>
+<tr align="center">
+<td>Nurul Izzah</td>
+<td>Taiping</td>
+<td>USM Balik Pulau</td>
+<td>Degree of Applied Science</td>
+</tr>
+<tr align="center">
+<td>Nur Aina Syafiyah</td>
+<td>Parit Buntar</td>
+<td>UNISZA</td>
+<td>Bachelor of Business Administration (Risk Management & Takaful)</td>
+</tr>
+<tr align="center">
+<td>Nurul Husna</td>
+<td>Penang</td>
+<td>UPSI</td>
+<td>Bachelor of Education (Science)</td>
+</tr>
+<tr align="center">
+<td>Intan Nurfazlin</td>
+<td>Parit Buntar</td>
+<td>UiTM Shah Alam</td>
+<td>Bachelor of Quantity Survey</td>
+</tr>
+<tr align="center">
+<td>Siti Ruzleeana</td>
+<td>Parit Buntar</td>
+<td>UiTM Seremban</td>
+<td>Diploma in Public Administration</td>
+</tr>
+<tr align="center">
+<td>Siti Nadiah</td>
+<td>Baling</td>
+<td>UiTM Kedah</td>
+<td>Diploma in Information Management</td>
+</tr>
+<tr align="center">
+<td>Lina Farzana</td>
+<td>Taiping</td>
+<td>UNISEL Shah Alah</td>
+<td>Diploma in Business Administration</td>
+</tr>
+<tr align="center">
+<td>Hazwan Haziq</td>
+<td>Parit Buntar</td>
+<td>UNIKL MIAT, Dengkil</td>
+<td>Diploma in Aviation & Aircraft Maintenance Technology</td>
+</div>
+<br>
+</body>
+</html>

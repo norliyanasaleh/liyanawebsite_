@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<head>
+<title>liyanawebsite</title>
+<link rel="stylesheet"href="style.css">
+</head>
+<body>
+<div class="nav">
+<nav class="nav-area">
+<ul>
+<li><a href="Index.html">Home</a></li>
+<li><a href="Biodata.html">Biodata</a></li>
+<li><a href="Experience.html">Experience</a></li>
+<li><a href="Education.html">Education</a></li>
+<li><a href="Family.html">Family</a></li>
+<li><a href="Friends.html">Friends</a></li>
+<li><a href="Gallery.html">Gallery</a></li>
+<li class="active"><a href="Contact.html">Contact</a></li>
+</ul> 
+</nav>
+</div>
+
+<br>
+<div class="navbar">
+<center>
+<h1><font face="comic sans"><font color="Darkblue">My Family</h1>
+<p><font color="black"></p>
+</center>
+<br>
+<center><table border="1" width= "50%" align="center"></center>
+<tr>
+<td COLSPAN="6"align="center"><img src="Images/family.jpg"width="400"height="400%"></td>
+<tr align="center" table background= "Images/tablebackground1.png">
+<th ROWSPAN="6">My Family</th>
+<th>Name</th>
+<th>Relationship</th>
+<th>Occupation</th>
+</tr>
+<tr align="center">
+<td>Mohd Saleh Bin Abd Hamid</td>
+<td>Father</td>
+<td>Military Retired</td>
+</tr>
+<tr align="center">
+<td>Padzilah Binti Ishak</td>
+<td>Mother</td>
+<td>Full-time Housewife</td>
+</tr>
+<tr align="center">
+<td>Nordiyana Binti Mohd Saleh</td>
+<td>Older Sister</td>
+<td>Businesswoman</td>
+</tr>
+<tr align="center">
+<td>Norfarhana Binti Mohd Saleh</td>
+<td>Older Sister</td>
+<td>Nurse</td>
+</tr>
+<tr align="center">
+<td>Mohd Asyraf Bin Mohd Saleh</td>
+<td>Older Brother</td>
+<td>Businessman</td>
+<tr align="center" table background="Background.jpg">
+<br>
+</body>
+</html>
